@@ -1,6 +1,13 @@
 # WordPress Tailwind Starter Theme
 A minimalistic WordPress starter theme, based on Tailwind and PurgeCSS.
 
+# EDIT: NEW VERSION
+https://github.com/pixeldevsio/tailpress
+
+
+
+
+
 ## Requirements
 - [NodeJS](https://nodejs.org)
 - [Composer](https://getcomposer.org)
